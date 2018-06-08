@@ -1,0 +1,22 @@
+{
+  "name": "dragdropsoundcloud",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Edu Alcover <alcover.edu@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/educover/DragDropSoundCloud",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
